@@ -1,0 +1,9 @@
+<colors>
+	<color id="BUTTON_DISABLED" color="#cccccc" />
+	<color id="HIGHLIGHT" color="#ebc873" />
+	<color id="WHISPER" color="#00feaf" />
+	<color id="PARTY" color="#f48055" />
+	<color id="GUILD" color="#f48055" />
+
+	<progressbar id="DEFAULT" color="#a8741f" />
+</colors>
