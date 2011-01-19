@@ -13,4 +13,6 @@
 	<option name="font" value="fonts/dejavusans.ttf" />
 	<option name="boldFont" value="fonts/dejavusans-bold.ttf" />
 	<option name="theme" value="wood" />
+	<option name="wallpapersPath" value="graphics/images/" />
+	<option name="wallpaperFile" value="spit23loginwallpaper_800x600.png" />
 </configuration>
