@@ -1,0 +1,9 @@
+##3                             === INDEX ===
+
+ -> @@about|About The Mana World@@
+ -> @@changes|Recent Changes@@
+
+ -> @@commands|Commands@@
+ -> @@windows|Windows@@
+
+ -> @@support|Support@@
