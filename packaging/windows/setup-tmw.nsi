@@ -312,11 +312,11 @@ Section /o "Music" SecMusic
     AddSize 17602
     CreateDirectory "$INSTDIR\data\music"
     SetOutPath "$INSTDIR\data\music"
-    NSISdl::download "http://downloads.sourceforge.net/themanaworld/tmwmusic-0.2.tar.gz" "$TEMP\tmwmusic-0.2.tar.gz"
+    NSISdl::download "http://downloads.sourceforge.net/themanaworld/tmwmusic-0.3.tar.gz" "$TEMP\music-data.tar.gz"
 
     ; !! Requires an additional plugin from http://nsis.sourceforge.net/UnTGZ_plug-in  Place untgz.dll in your nsis/plugin dir
-    untgz::extract -j -d "$INSTDIR\data\music" "$TEMP\tmwmusic-0.2.tar.gz"
-    Delete "$TEMP\tmwmusic-0.2.tar.gz"
+    untgz::extract -j -d "$INSTDIR\data\music" "$TEMP\music-data.tar.gz"
+    Delete "$TEMP\music-data.tar.gz"
 SectionEnd
 
 
