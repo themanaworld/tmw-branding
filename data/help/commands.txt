@@ -1,14 +1,14 @@
  <- @@index|Back to Index@@
- 
- 
+
+
 ##3                            === COMMANDS ===
 
 KEYBOARD:
 
 ##2 Use arrow keys to move around.
- 
+
 ##3Most useful keys:
- 
+
      ##2Enter##P              focus chat window / send message
      ##2A##P                  target nearest monster
      ##2Ctrl##P               attack
