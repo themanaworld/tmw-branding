@@ -1,0 +1,14 @@
+-------------------------------
+The Mana World - Branding Files
+-------------------------------
+
+The files in this package are meant to be used together with the Mana client
+released at http://manasource.org/.
+
+To run The Mana World, the `tmw.mana` file can be passed as argument to the
+Mana client executable. This will ensure the client appears like The Mana World
+and lists only The Mana World servers. The `data` directory should always be
+located alongside the `tmw.mana` file.
+
+A shell script and menu entry description files that perform the above
+procedure are provided.
