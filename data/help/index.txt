@@ -1,9 +1,11 @@
 ##3                             === INDEX ===
 
- -> @@about|About The Mana World@@
- -> @@changes|Recent Changes@@
+##0 -> @@about-tmw|About The Mana World@@
+##0 -> @@about|About Mana@@
+##0 -> @@changes|Recent Changes in the Mana client@@
 
- -> @@commands|Commands@@
- -> @@windows|Windows@@
+##0 -> @@commands|Commands@@
+##0 -> @@windows|Windows@@
 
- -> @@support|Support@@
+##0 -> @@support|Mana Client Support@@
+##0 -> @@support-tmw|The Mana World Support@@
