@@ -1,2 +1,2 @@
 #!/bin/sh
-exec mana /usr/share/tmw/tmw.mana "$@"
+exec manaplus /usr/share/tmw/tmw.mana "$@"
