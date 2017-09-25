@@ -1,2 +1,0 @@
-#!/bin/sh
-exec manaplus /usr/share/tmw/tmw.mana "$@"
